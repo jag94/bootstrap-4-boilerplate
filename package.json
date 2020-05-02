@@ -7,7 +7,7 @@
   "homepage": "https://bootstrapstarter.com/bootstrap-templates/template-basic-bootstrap-html/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wowthemesnet/bootstrap-4-boilerplate.git"
+    "url": "git+https://github.com/wowthemesnet/bootstrap-4-boilerplate.git"
   },
   "scripts": {
     "start": "gulp",
@@ -27,9 +27,22 @@
     "gulp-if": "^2.0.2",
     "gulp-imagemin": "^5.0.3",
     "gulp-js-import": "^1.0.6",
+    "gulp-newer": "^1.4.0",
     "gulp-sass": "^4.0.2",
     "gulp-sourcemaps": "^2.6.5",
-    "gulp-uglify": "^3.0.2"
+    "gulp-strip-debug": "^3.0.0",
+    "gulp-uglify": "^3.0.2",
+    "gulp-util": "^3.0.8"
   },
-  "dependencies": {}
+  "dependencies": {
+    "gulp-deporder": "^1.2.0",
+    "gulp-terser": "^1.2.0"
+  },
+  "bugs": {
+    "url": "https://github.com/wowthemesnet/bootstrap-4-boilerplate/issues"
+  },
+  "main": "gulpfile.js",
+  "directories": {
+    "doc": "docs"
+  }
 }
