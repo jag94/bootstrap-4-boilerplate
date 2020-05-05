@@ -36,7 +36,8 @@
   },
   "dependencies": {
     "gulp-deporder": "^1.2.0",
-    "gulp-terser": "^1.2.0"
+    "gulp-terser": "^1.2.0",
+    "nodejs": "0.0.0"
   },
   "bugs": {
     "url": "https://github.com/wowthemesnet/bootstrap-4-boilerplate/issues"
