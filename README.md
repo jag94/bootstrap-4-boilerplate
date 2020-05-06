@@ -1,3 +1,3 @@
 # bootstrap-4-boilerplate
 
-![Screenshot of Boilerplate](/screenshots/BrowserSyncIm.png)
+![Screenshot of BrowserSync](/screenshots/BrowserSyncIm.png)
