@@ -16,6 +16,10 @@ body {
     border-bottom:1px solid #eee;
 }
 
+ul.nav li.dropdown:hover ul.dropdown-menu {
+    display: block;
+}
+
 .bd-placeholder-img {
     font-size: 1.125rem;
     text-anchor: middle;
